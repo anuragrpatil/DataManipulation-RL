@@ -1,0 +1,3 @@
+# DataManipulation-RL
+
+In this project, we formulate a reinforcement learning framework which automates the data weight process to improve the efficiency of learning a classification problem. Furthermore, by changing the reward function it can automate different data manipulation techniques like data augmentation, data weighting, etc. Handling imbalanced classes and low data regime is a commonly encountered problem in supervised learning. Our reinforcement learning framework is well suited to handle such tasks. Data augmentation helps in training the model for the invariance in the data domain.
